@@ -1,0 +1,1 @@
+Realise method to determine if input string is palindrome - read equally both originally and reverse-like.
